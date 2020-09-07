@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      hello mr. Ijlal haider
+      hello mr. IJLAL HAIDER KHAN
     </div>
   );
 }
